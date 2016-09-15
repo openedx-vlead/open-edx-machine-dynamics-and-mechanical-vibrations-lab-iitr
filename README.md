@@ -1,0 +1,1 @@
+# open-edx-machine-dynamics-and-mechanical-vibrations-lab-iitr
