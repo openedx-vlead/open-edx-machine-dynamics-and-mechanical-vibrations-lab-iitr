@@ -1,0 +1,49 @@
+<problem display_name="Multiple Choice" markdown="1. A system with 10kg mass 10N/m stiffness and 5Ns/m damping is being operated at 1rad/s if Xst=1cm what is the value of X0 ?&#10;&#10;( )    4cm&#10;( )    1cm&#10;(x)    2cm&#10;( )    none of these&#10;    &#10;2. Phase difference between input and response at resonance is 90o&#10;&#10; (x)   true&#10; ( )   false&#10;    &#10;3. Amplification factor of a system was found to be 4 at resonance. What would be its damping ratio?&#10;&#10; ( )   0.5&#10; (x)   0.125&#10; ( )   1&#10; ( )   0.25&#10;&#10;4. At resonance, amplification factor depends only on?&#10;&#10; (x)   damping ratio&#10; ( )   frequency ratio&#10; ( )   none of these&#10; ( )   deflection due to static force&#10;    &#10;5. What is the phase difference between input and response for a system with 10kg mass 10N/m stiffness and 15Ns/m damping being operated at 0.5 rad/s&#10;&#10;( )    30 degrees&#10;(x)    45 degrees&#10;( )    60 degrees&#10;( )    90 degrees&#10;   ">
+  <p>1. A system with 10kg mass 10N/m stiffness and 5Ns/m damping is being operated at 1rad/s if Xst=1cm what is the value of X0 ?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">4cm</choice>
+      <choice correct="false">1cm</choice>
+      <choice correct="true">2cm</choice>
+      <choice correct="false">none of these</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>    </p>
+  <p>2. Phase difference between input and response at resonance is 90o</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">true</choice>
+      <choice correct="false">false</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>    </p>
+  <p>3. Amplification factor of a system was found to be 4 at resonance. What would be its damping ratio?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">0.5</choice>
+      <choice correct="true">0.125</choice>
+      <choice correct="false">1</choice>
+      <choice correct="false">0.25</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>4. At resonance, amplification factor depends only on?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">damping ratio</choice>
+      <choice correct="false">frequency ratio</choice>
+      <choice correct="false">none of these</choice>
+      <choice correct="false">deflection due to static force</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>    </p>
+  <p>5. What is the phase difference between input and response for a system with 10kg mass 10N/m stiffness and 15Ns/m damping being operated at 0.5 rad/s</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">30 degrees</choice>
+      <choice correct="true">45 degrees</choice>
+      <choice correct="false">60 degrees</choice>
+      <choice correct="false">90 degrees</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>   </p>
+</problem>

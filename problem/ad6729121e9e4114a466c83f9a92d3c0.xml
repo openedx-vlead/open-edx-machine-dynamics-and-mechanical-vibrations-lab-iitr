@@ -1,0 +1,48 @@
+<problem display_name="Multiple Choice" markdown="1. A system with 10kg mass 10N/m stiffness and 2.5Ns/m damping is being operated at 1rad/s if Xst=1cm what is the value of X0 ?&#10;&#10; (x)   4cm&#10;  ()  1cm&#10;   () 2cm&#10;   () none of these&#10;   &#10;   2. At resonance, for underdamped system increasing the value of damping would lead to ?&#10;&#10;  ()  increase then decrease in steady state amplitude&#10;  (x)  decrease in steady state amplitude&#10;  ()  decrease then increase in steady state amplitude&#10;  ()  increase in steady state amplitude&#10;  &#10;  3. What is the phase difference between input and response for a system with 10kg mass 10N/m stiffness and 15Ns/m damping being operated at 0.5 rad/s&#10;&#10;   () 60 degrees&#10;  (x)  45 degrees&#10;   () 90 degrees&#10;   () 30 degrees&#10;    &#10;    4. Phase difference between input and response at resonance is 90o&#10;&#10;   (x) true&#10;   () false&#10;   5. Amplification factor of a system was found to be 2 at resonance. What would be its damping ratio?&#10;&#10;  (x)  0.25&#10;  ()  0.125&#10;  ()  0.5&#10;  ()  1">
+  <p>1. A system with 10kg mass 10N/m stiffness and 2.5Ns/m damping is being operated at 1rad/s if Xst=1cm what is the value of X0 ?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">4cm</choice>
+      <choice correct="false">1cm</choice>
+      <choice correct="false">2cm</choice>
+      <choice correct="false">none of these</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>   </p>
+  <p>   2. At resonance, for underdamped system increasing the value of damping would lead to ?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">increase then decrease in steady state amplitude</choice>
+      <choice correct="true">decrease in steady state amplitude</choice>
+      <choice correct="false">decrease then increase in steady state amplitude</choice>
+      <choice correct="false">increase in steady state amplitude</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>  </p>
+  <p>  3. What is the phase difference between input and response for a system with 10kg mass 10N/m stiffness and 15Ns/m damping being operated at 0.5 rad/s</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">60 degrees</choice>
+      <choice correct="true">45 degrees</choice>
+      <choice correct="false">90 degrees</choice>
+      <choice correct="false">30 degrees</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>    </p>
+  <p>    4. Phase difference between input and response at resonance is 90o</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">true</choice>
+      <choice correct="false">false</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>   5. Amplification factor of a system was found to be 2 at resonance. What would be its damping ratio?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">0.25</choice>
+      <choice correct="false">0.125</choice>
+      <choice correct="false">0.5</choice>
+      <choice correct="false">1</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

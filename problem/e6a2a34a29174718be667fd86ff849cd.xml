@@ -1,0 +1,41 @@
+<problem display_name="Multiple Choice" markdown="1. How many equations are required for describing a 2DoF system?&#10;&#10;()    1&#10;(x)   2&#10;()    3&#10;()    None of these&#10;  &#10;2. 2DoF system does not contain a damper&#10;&#10;()    true&#10;(x)   false&#10;  &#10;3. Which of the following can be modelled as a 2DoF system ?&#10;&#10;(x)   Motor Generator System&#10;()    Wave loading in offshore structure&#10;()    Wind blowing with high velocity over a skyscraper&#10;()    None of these&#10;    &#10;4. 2DoF system has&#10;&#10;()    1 Natural Frequency&#10;(x)   2 Natural Frequencies&#10;()    ∞ Natural Frequencies&#10;()    None of these&#10;    &#10;    &#10;">
+  <p>1. How many equations are required for describing a 2DoF system?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">1</choice>
+      <choice correct="true">2</choice>
+      <choice correct="false">3</choice>
+      <choice correct="false">None of these</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>  </p>
+  <p>2. 2DoF system does not contain a damper</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">true</choice>
+      <choice correct="true">false</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>  </p>
+  <p>3. Which of the following can be modelled as a 2DoF system ?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">Motor Generator System</choice>
+      <choice correct="false">Wave loading in offshore structure</choice>
+      <choice correct="false">Wind blowing with high velocity over a skyscraper</choice>
+      <choice correct="false">None of these</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>    </p>
+  <p>4. 2DoF system has</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">1 Natural Frequency</choice>
+      <choice correct="true">2 Natural Frequencies</choice>
+      <choice correct="false">∞ Natural Frequencies</choice>
+      <choice correct="false">None of these</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>    </p>
+  <p>    </p>
+</problem>

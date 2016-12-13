@@ -1,0 +1,31 @@
+<problem display_name="Multiple Choice" markdown="1. In forced vibrations usually the following are considered for analysis&#10;&#10; (x)   Steady State Vibrations&#10;  ()  Transient Vibrations&#10;  ()  Free Vibrations&#10;   () None of these&#10;    &#10;    2. What is the amplitude of force due to imbalance mass of 10g at a distance of 10mm rotating at 100rad/s (~950rpm) ?&#10;&#10;  ()  None of these&#10;  ()  10N&#10;  ()  0.1N&#10;  (x)  1N&#10;  &#10;  3. Which of the following is a forced vibration system?&#10;&#10;  ()  Wind blowing at tree top&#10;  ()  Ocean waves at offshore rig&#10;  (x)  All of these&#10;  ()  Car moving on a rough road">
+  <p>1. In forced vibrations usually the following are considered for analysis</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">Steady State Vibrations</choice>
+      <choice correct="false">Transient Vibrations</choice>
+      <choice correct="false">Free Vibrations</choice>
+      <choice correct="false">None of these</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>    </p>
+  <p>    2. What is the amplitude of force due to imbalance mass of 10g at a distance of 10mm rotating at 100rad/s (~950rpm) ?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">None of these</choice>
+      <choice correct="false">10N</choice>
+      <choice correct="false">0.1N</choice>
+      <choice correct="true">1N</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>  </p>
+  <p>  3. Which of the following is a forced vibration system?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Wind blowing at tree top</choice>
+      <choice correct="false">Ocean waves at offshore rig</choice>
+      <choice correct="true">All of these</choice>
+      <choice correct="false">Car moving on a rough road</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

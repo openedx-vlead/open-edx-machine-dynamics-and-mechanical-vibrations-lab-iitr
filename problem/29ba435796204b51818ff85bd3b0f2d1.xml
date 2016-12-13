@@ -1,0 +1,49 @@
+<problem display_name="Multiple Choice" markdown="1. A two DOF system with one of natural frequency having value of zero is called&#10;&#10;()    Indefinite system&#10;()    Definite system&#10; (x)   Degenerative/Semi-definite system&#10; ()   None of these&#10;    &#10; 2. One of the natural frequencies of the Tuned Mass Damper system is the same as natural frequency of secondary mass-spring system&#10;&#10;  ()  True&#10;  (x)  False&#10;  &#10;  3. A system with 100kg mass and 1kN/mm stiffness needs to be operated at 50rad/s. It is intended to transfer all vibrations of this mass to a secondary system. Which of the following would be suitable&#10;&#10;  ()  10kg mass with 50N/mm stiffness&#10;  (x) 20kg mass with 50N/mm stiffness&#10;  ()  10kg mass with 100N/mm stiffness&#10;  ()  20kg mass with 100N/mm stiffness&#10;    &#10;    4. A SDOF was vibrating violently at a given frequency, it was decided to add a secondary system to it and control vibration. The added system to control vibration is known as&#10;&#10;  ()  Shaker&#10;  ()  None of these&#10;  (x) Tuned Dynamic Vibration Absorber&#10;  ()  Critical Damper&#10;    &#10;    5. For effective isolation, frequency ratio should be greater than&#10;&#10; ()   1&#10; ()   0.707&#10; ()   None of these&#10;  (x)  1.414">
+  <p>1. A two DOF system with one of natural frequency having value of zero is called</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Indefinite system</choice>
+      <choice correct="false">Definite system</choice>
+      <choice correct="true">Degenerative/Semi-definite system</choice>
+      <choice correct="false">None of these</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>    </p>
+  <p> 2. One of the natural frequencies of the Tuned Mass Damper system is the same as natural frequency of secondary mass-spring system</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">True</choice>
+      <choice correct="true">False</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>  </p>
+  <p>  3. A system with 100kg mass and 1kN/mm stiffness needs to be operated at 50rad/s. It is intended to transfer all vibrations of this mass to a secondary system. Which of the following would be suitable</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">10kg mass with 50N/mm stiffness</choice>
+      <choice correct="true">20kg mass with 50N/mm stiffness</choice>
+      <choice correct="false">10kg mass with 100N/mm stiffness</choice>
+      <choice correct="false">20kg mass with 100N/mm stiffness</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>    </p>
+  <p>    4. A SDOF was vibrating violently at a given frequency, it was decided to add a secondary system to it and control vibration. The added system to control vibration is known as</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Shaker</choice>
+      <choice correct="false">None of these</choice>
+      <choice correct="true">Tuned Dynamic Vibration Absorber</choice>
+      <choice correct="false">Critical Damper</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>    </p>
+  <p>    5. For effective isolation, frequency ratio should be greater than</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">1</choice>
+      <choice correct="false">0.707</choice>
+      <choice correct="false">None of these</choice>
+      <choice correct="true">1.414</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

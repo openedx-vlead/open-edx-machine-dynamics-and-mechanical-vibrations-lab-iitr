@@ -1,0 +1,48 @@
+<problem display_name="Multiple Choice" markdown="1. At resonance, amplification factor depends only on?&#10;&#10; ()   frequency ratio&#10; (x)   damping ratio&#10; ()   deflection due to static force&#10; ()   none of these&#10; &#10;2. A system with 20kg mass 20N/m stiffness and 10Ns/m damping is being operated at 1rad/s if Xst=2cm what is the value of X0 ?&#10;&#10; ()   2cm&#10; ()   1cm&#10; (x)   4cm&#10; ()   none of these&#10; &#10; 3. Phase difference between input and response at resonance is 90o&#10;&#10;()    false&#10;(x)    true&#10;&#10;4. Phase difference between input and response of a system was found to be π/4. With mass of system 20kg and stiffness 2N/mm if operating frequency was 5rad/s what was the damping in the system (in Ns/m)&#10;&#10; ()   400&#10; ()   200&#10; (x)   300&#10; ()   100&#10; &#10; 5. Amplification factor of a system was found to be 1 at resonance. What would be its damping ratio?&#10;&#10; ()   0.25&#10; ()   0.125&#10; (x)   0.5&#10; ()   1">
+  <p>1. At resonance, amplification factor depends only on?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">frequency ratio</choice>
+      <choice correct="true">damping ratio</choice>
+      <choice correct="false">deflection due to static force</choice>
+      <choice correct="false">none of these</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p> </p>
+  <p>2. A system with 20kg mass 20N/m stiffness and 10Ns/m damping is being operated at 1rad/s if Xst=2cm what is the value of X0 ?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">2cm</choice>
+      <choice correct="false">1cm</choice>
+      <choice correct="true">4cm</choice>
+      <choice correct="false">none of these</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p> </p>
+  <p> 3. Phase difference between input and response at resonance is 90o</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">false</choice>
+      <choice correct="true">true</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>4. Phase difference between input and response of a system was found to be π/4. With mass of system 20kg and stiffness 2N/mm if operating frequency was 5rad/s what was the damping in the system (in Ns/m)</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">400</choice>
+      <choice correct="false">200</choice>
+      <choice correct="true">300</choice>
+      <choice correct="false">100</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p> </p>
+  <p> 5. Amplification factor of a system was found to be 1 at resonance. What would be its damping ratio?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">0.25</choice>
+      <choice correct="false">0.125</choice>
+      <choice correct="true">0.5</choice>
+      <choice correct="false">1</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

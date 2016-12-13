@@ -1,0 +1,32 @@
+<problem display_name="Multiple Choice" markdown="1. Which of the following is a forced vibration system?&#10;&#10;()    Car moving on a rough road&#10;()    Wind blowing at tree top&#10; ()   Ocean waves at offshore rig&#10;(x)    All of these&#10;&#10;2. Base of a mechanical system is being given a harmonic input motion starting from its mean position. Amplitude and frequency of the input motion is 5mm and π/2 rad/s respectively. What will be the position of the base (with respect to mean position) after 3seconds ?&#10;&#10;(x) -5mm&#10;()    0mm&#10;()    5mm&#10;()    None of these&#10;    &#10;  3. Solution of forced vibration system consists of&#10;&#10; ()   Only Steady State part&#10; ()   Only Transient Part&#10;(x) Both Steady State and Transient part&#10; ()   None of these&#10; &#10;    ">
+  <p>1. Which of the following is a forced vibration system?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Car moving on a rough road</choice>
+      <choice correct="false">Wind blowing at tree top</choice>
+      <choice correct="false">Ocean waves at offshore rig</choice>
+      <choice correct="true">All of these</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>2. Base of a mechanical system is being given a harmonic input motion starting from its mean position. Amplitude and frequency of the input motion is 5mm and π/2 rad/s respectively. What will be the position of the base (with respect to mean position) after 3seconds ?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">-5mm</choice>
+      <choice correct="false">0mm</choice>
+      <choice correct="false">5mm</choice>
+      <choice correct="false">None of these</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>    </p>
+  <p>  3. Solution of forced vibration system consists of</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Only Steady State part</choice>
+      <choice correct="false">Only Transient Part</choice>
+      <choice correct="true">Both Steady State and Transient part</choice>
+      <choice correct="false">None of these</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p> </p>
+  <p>    </p>
+</problem>
