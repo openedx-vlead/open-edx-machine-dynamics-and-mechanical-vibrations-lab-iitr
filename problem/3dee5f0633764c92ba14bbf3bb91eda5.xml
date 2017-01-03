@@ -1,0 +1,50 @@
+<problem display_name="Multiple Choice" markdown="1. If energy is lost in any way during vibration, the system can be considered to be ?&#10;&#10;( )    Undamped&#10;( )    Overdamped&#10;(x)    Damped&#10;( )    Underdamped &#10;    &#10;2. A body is said to undergo free vibration, when?&#10;&#10;( )   The force causing the initial displacement is removed&#10;( )   It vibrates freely with no resistive force acting on it&#10;(x)   It vibrates freely with no force acting on it&#10;( )   It vibrates in free space&#10;&#10;3. In free vibration experiment the damping may occur due to&#10;&#10;( ) Friction at support&#10;( ) Hysteresis damping&#10;( ) None of the above&#10;(x) Friction at support and Hysteresis damping&#10; &#10; 4. The moment of inertia of the beam cross-section and for a circular cross-section it is given as,?&#10;&#10;( )  I=pi/32d4&#10;( )  I=pi/62d4&#10;(x)  I=pi/64d4&#10;( )  I=pi/34d4&#10;    &#10;5. For a Fixed-Fixed beam with a point load at the middle, The stiffness is&#10;&#10;( ) EI/L3&#10;(x) 192EI/L3&#10;( ) 48EI/L3&#10;( ) 3EI/L3&#10;">
+  <p>1. If energy is lost in any way during vibration, the system can be considered to be ?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Undamped</choice>
+      <choice correct="false">Overdamped</choice>
+      <choice correct="true">Damped</choice>
+      <choice correct="false">Underdamped</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>    </p>
+  <p>2. A body is said to undergo free vibration, when?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">The force causing the initial displacement is removed</choice>
+      <choice correct="false">It vibrates freely with no resistive force acting on it</choice>
+      <choice correct="true">It vibrates freely with no force acting on it</choice>
+      <choice correct="false">It vibrates in free space</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>3. In free vibration experiment the damping may occur due to</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Friction at support</choice>
+      <choice correct="false">Hysteresis damping</choice>
+      <choice correct="false">None of the above</choice>
+      <choice correct="true">Friction at support and Hysteresis damping</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p> </p>
+  <p> 4. The moment of inertia of the beam cross-section and for a circular cross-section it is given as,?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">I=pi/32d4</choice>
+      <choice correct="false">I=pi/62d4</choice>
+      <choice correct="true">I=pi/64d4</choice>
+      <choice correct="false">I=pi/34d4</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>    </p>
+  <p>5. For a Fixed-Fixed beam with a point load at the middle, The stiffness is</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">EI/L3</choice>
+      <choice correct="true">192EI/L3</choice>
+      <choice correct="false">48EI/L3</choice>
+      <choice correct="false">3EI/L3</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

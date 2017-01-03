@@ -1,0 +1,51 @@
+<problem display_name="Multiple Choice" markdown="1. When excitation frequency is equal to natural frequency of absorber, the main system amplitude is ?&#10;&#10; ()   maximum&#10; (x)  zero&#10; ()   None of these&#10; ()   half of maximum&#10;    &#10;2. The mass whose vibrations are to be kept minimum is called?&#10;&#10;()  Secondary Mass&#10;(x) Primary Mass&#10;()  None of these&#10;()  Absorber Mass&#10;    &#10; 3. Tuned Mass Damper is essentially&#10;&#10; ()   a 1DoF system with extra mass&#10; (x)  a 2DoF system&#10; ()   a Complex pendulum&#10; ()   None of these&#10;    &#10; 4. Without the absorber mass the number of natural frequencies in a TMD is&#10;&#10; ()   2&#10; (x)  1&#10; ()   0&#10; ()   none of these&#10;    &#10;5. TMD system has&#10;&#10;()   1 Natural Frequency&#10;(x)  2 Natural Frequencies&#10;()   ∞ Natural Frequencies&#10;()   None of these    ">
+  <p>1. When excitation frequency is equal to natural frequency of absorber, the main system amplitude is ?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">maximum</choice>
+      <choice correct="true">zero</choice>
+      <choice correct="false">None of these</choice>
+      <choice correct="false">half of maximum</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>    </p>
+  <p>2. The mass whose vibrations are to be kept minimum is called?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Secondary Mass</choice>
+      <choice correct="true">Primary Mass</choice>
+      <choice correct="false">None of these</choice>
+      <choice correct="false">Absorber Mass</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>    </p>
+  <p> 3. Tuned Mass Damper is essentially</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">a 1DoF system with extra mass</choice>
+      <choice correct="true">a 2DoF system</choice>
+      <choice correct="false">a Complex pendulum</choice>
+      <choice correct="false">None of these</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>    </p>
+  <p> 4. Without the absorber mass the number of natural frequencies in a TMD is</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">2</choice>
+      <choice correct="true">1</choice>
+      <choice correct="false">0</choice>
+      <choice correct="false">none of these</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>    </p>
+  <p>5. TMD system has</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">1 Natural Frequency</choice>
+      <choice correct="true">2 Natural Frequencies</choice>
+      <choice correct="false">∞ Natural Frequencies</choice>
+      <choice correct="false">None of these</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

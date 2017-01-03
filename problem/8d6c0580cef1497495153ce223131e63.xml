@@ -1,0 +1,46 @@
+<problem display_name="Multiple Choice" markdown="1. For an over damped system&#10; (x)   c greater than 1&#10; ( )   c less than 1&#10; ( )   c equal to 1&#10; ( )   None of these&#10; &#10;2. The magnification factor is the ratio of maximum amplitude and static deflection&#10; (x)   true&#10; ( )   false&#10;    &#10;3. What is the natural frequency in rad/s of a system whose damped natural frequency is 30rad/s and damping ratio is 0.6 ?&#10;&#10;(x)    37.5&#10;( )    30&#10;( )    45&#10;( )    50&#10;&#10;4. A rod 20 mm diameters and 1.2 m long is fixed at both ends and has a mass of 2kg concentrated at the middle. Ignoring the weight of the rod, calculate the frequency of transverse vibrations. Take E=200 Gpa ?&#10;&#10; (x)   47.04Hz&#10; ( )   23.52Hz&#10; ( )   5.88Hz&#10; ( )   11.76Hz&#10; &#10; 5. The amplitude of a damped system will not change with time.&#10;&#10;( )    true&#10;(x)    false&#10;">
+  <p>1. For an over damped system</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">c greater than 1</choice>
+      <choice correct="false">c less than 1</choice>
+      <choice correct="false">c equal to 1</choice>
+      <choice correct="false">None of these</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p> </p>
+  <p>2. The magnification factor is the ratio of maximum amplitude and static deflection</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">true</choice>
+      <choice correct="false">false</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>    </p>
+  <p>3. What is the natural frequency in rad/s of a system whose damped natural frequency is 30rad/s and damping ratio is 0.6 ?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">37.5</choice>
+      <choice correct="false">30</choice>
+      <choice correct="false">45</choice>
+      <choice correct="false">50</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>4. A rod 20 mm diameters and 1.2 m long is fixed at both ends and has a mass of 2kg concentrated at the middle. Ignoring the weight of the rod, calculate the frequency of transverse vibrations. Take E=200 Gpa ?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">47.04Hz</choice>
+      <choice correct="false">23.52Hz</choice>
+      <choice correct="false">5.88Hz</choice>
+      <choice correct="false">11.76Hz</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p> </p>
+  <p> 5. The amplitude of a damped system will not change with time.</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">true</choice>
+      <choice correct="true">false</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

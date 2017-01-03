@@ -1,0 +1,46 @@
+<problem display_name="Multiple Choice" markdown="1. What is the value of logarithmic decrement if amplitude drops by 2 times between consecutive peaks ?&#10;&#10;( )  0.301&#10;(x)  0.693&#10;( )  0.602&#10;( )  0.346&#10;    &#10;2. The amplitude of a damped system will not change with time.&#10;&#10; (x) false&#10; ( ) true&#10;&#10;3. A rod 20 mm diameters and 1.2 m long is simply supported at both end and has a mass of 2kg concentrated at the middle. Ignoring the weight of the rod, calculate the frequency of transverse vibrations. Take E=200 Gpa.?&#10;&#10;( )  5.88Hz&#10;(x)  23.52Hz&#10;( )  11.76Hz&#10;( )  47.04Hz&#10;    &#10;4. The magnification factor is the ratio of maximum amplitude and static deflection.&#10;&#10;( ) false&#10;(x) true&#10;    &#10;5. For an under damped system&#10;&#10; ( ) ωd greater than ωn&#10; (x) ωd less than ωn&#10; ( ) none of these&#10; ( ) ωd equal to ωn">
+  <p>1. What is the value of logarithmic decrement if amplitude drops by 2 times between consecutive peaks ?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">0.301</choice>
+      <choice correct="true">0.693</choice>
+      <choice correct="false">0.602</choice>
+      <choice correct="false">0.346</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>    </p>
+  <p>2. The amplitude of a damped system will not change with time.</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">false</choice>
+      <choice correct="false">true</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>3. A rod 20 mm diameters and 1.2 m long is simply supported at both end and has a mass of 2kg concentrated at the middle. Ignoring the weight of the rod, calculate the frequency of transverse vibrations. Take E=200 Gpa.?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">5.88Hz</choice>
+      <choice correct="true">23.52Hz</choice>
+      <choice correct="false">11.76Hz</choice>
+      <choice correct="false">47.04Hz</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>    </p>
+  <p>4. The magnification factor is the ratio of maximum amplitude and static deflection.</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">false</choice>
+      <choice correct="true">true</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>    </p>
+  <p>5. For an under damped system</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">ωd greater than ωn</choice>
+      <choice correct="true">ωd less than ωn</choice>
+      <choice correct="false">none of these</choice>
+      <choice correct="false">ωd equal to ωn</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>
